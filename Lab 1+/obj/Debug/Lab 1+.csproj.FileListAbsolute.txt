@@ -1,0 +1,27 @@
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\bin\Debug\Lab 1+.exe.config
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\bin\Debug\Lab 1+.exe
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\bin\Debug\Lab 1+.pdb
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+.csprojResolveAssemblyReference.cache
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\MainWindow.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\App.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+_MarkupCompile.cache
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+_MarkupCompile.lref
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\MainWindow.baml
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+.g.resources
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab_1_.Properties.Resources.resources
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+.csproj.GenerateResource.Cache
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+.exe
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Lab 1+.pdb
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\List.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\List.baml
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Planet.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Planet.baml
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Dates.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Dates.baml
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Timer.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Timer.baml
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Menu.g.cs
+C:\fuck you fucking fuck\VS\Projects\Lab 1+\Lab 1+\obj\Debug\Menu.baml
+C:\fuck you fucking fuck\VS\Projects\win_form\Lab 1+\bin\Debug\Lab 1+.exe.config
+C:\fuck you fucking fuck\VS\Projects\win_form\Lab 1+\obj\Debug\Lab 1+.exe
+C:\fuck you fucking fuck\VS\Projects\win_form\Lab 1+\obj\Debug\Lab 1+.pdb

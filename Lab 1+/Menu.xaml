@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lab_1_.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_1_"
+        mc:Ignorable="d"
+        Title="Menu" Height="452.653" Width="637.11">
+    <Grid>
+        <Label x:Name="label" Content="#6 Menu" HorizontalAlignment="Left" Height="36" Margin="275,10,0,0" VerticalAlignment="Top" Width="97" FontFamily="Roboto Light" FontSize="22"/>
+        <Menu HorizontalAlignment="Left" Height="34" Margin="43,82,0,0" VerticalAlignment="Top" Width="61" FontFamily="Roboto Light" FontSize="20">
+            <MenuItem x:Name ="M1" Header ="File" BorderBrush="#ff8b3a3a" Height="33" Width="60" FontSize="16">
+                <MenuItem Header="Open" Click="MenuItem_Click"/>
+                <MenuItem Header="Save" Click="MenuItem_Click_1"/>
+            </MenuItem>
+        </Menu>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="240" Margin="192,82,0,0" VerticalAlignment="Top" Width="318" FontSize="18" FontFamily="Roboto Light"/>
+        <Label x:Name="Wrong" Content="" HorizontalAlignment="Left" Height="40" Margin="192,341,0,0" VerticalAlignment="Top" Width="318"/>
+
+    </Grid>
+</Window>
